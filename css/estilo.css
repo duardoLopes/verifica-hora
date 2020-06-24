@@ -1,0 +1,39 @@
+@charset "UTF-8";
+
+body{
+  background: #00b1ff;
+}
+header{
+  color: white;
+  text-align: center;
+}
+section{
+  padding: 10px;
+  border-radius: 10px;
+  box-shadow: 3px 3px 10px rgba(0,0,0,.3);
+  width: 300px;
+  height: 250px;
+  margin: auto;
+  background: white;
+}
+div{
+  margin: 5px;
+  text-align: center;
+}
+img#imagem{
+  box-shadow: 0px 0px 7px black;
+  margin-top: 30px;
+  border-radius: 20px;
+  width: 150px;
+  height: 150px;
+}
+p#res{
+  margin: 0px;
+  color: #00b1ff;
+  font-size: 27pt;
+  text-shadow: 0px 0px 2px black;
+}
+footer{
+  color: white;
+  text-align: center;
+}
